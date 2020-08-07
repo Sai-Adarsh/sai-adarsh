@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋🏽, I'm Adarsh S.</h1>
-<h3 align="center">Full Stack Developer • Machine Learning Engineer • Android Developer • and an Open Source Enthusiast from Madurai, India.</h3>
+<h1 align="center">Hey 👋🏽, I'm [Adarsh S.!]</h1>
+<h3 align="center">Full Stack Developer 🚀 Machine Learning Engineer 🌤 Android ⚛ and an Open Source Enthusiast 📚 from Madurai, India.</h3>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goforbg" alt="goforbg" /> </p>
