@@ -1,7 +1,7 @@
-### Hey 👋🏽, I'm [Sai Adarsh!](https://sai-adarsh.github.io/) 
-
+### Hey 👋🏽, I'm [Adarsh S.!](https://sai-adarsh.github.io/) 
 <br/>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br/>
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -31,9 +31,8 @@
 
 <br />
 
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India. Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/), Alogirthms Enthusiast 👨🏽‍💻, Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/), Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes), and a Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/). Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Stoic and Startup stuffs.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
