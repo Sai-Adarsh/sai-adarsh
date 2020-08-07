@@ -1,11 +1,8 @@
 <h1 align="center">Hey 👋🏽, I'm Sai Adarsh S.</h1>
 <h4 align="center">Full Stack Developer 🚀 Machine Learning Engineer 🌤 Android ⚛ and an Open Source Enthusiast 📚 from Madurai, India.</h4>
 <br />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-adarsh" alt="sai-adarsh" /> </p>
-
 <br />
-
 <a href="https://twitter.com/ad6rsh">
   <img align="left" alt="Sai Adarsh S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
