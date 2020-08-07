@@ -21,7 +21,6 @@
 
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-<br />
 
 Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India. Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/), Alogirthms Enthusiast 👨🏽‍💻, Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼, and a Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Philosophy and Startup stuffs.
 
