@@ -1,49 +1,41 @@
-### Hey 👋🏽, I'm [Adarsh S.!](https://sai-adarsh.github.io/) 
+<h1 align="center">Hey 👋🏽, I'm [Adarsh S.!]</h1>
+<h3 align="center">Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India.</h3>
 <br />
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br />
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://www.twitch.tv/saiadarsh99">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/ad6rsh">
+  <img align="left" alt="Sai Adarsh S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sai-adarsh/">
+  <img align="left" alt="Sai Adarsh S's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/ad6rsh/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/abhisheknaiidu/">
+<a href="https://leetcode.com/sai-adarsh/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/abhisheknaidu">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<br />
 
-Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India. Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/), Alogirthms Enthusiast 👨🏽‍💻, Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/), Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes), and a Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/). Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Stoic and Startup stuffs.
+Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India. Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/), Alogirthms Enthusiast 👨🏽‍💻, Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼, and a Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Philosophy and Startup stuffs.
 
   
-**Talking about Personal Stuffs:**
+**About Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
+-
+- 👨🏽‍💻 I’m currently working on [SwipeLance](https://github.com/abhisheknaiidu/A-POP);
+- 🌱 I’m currently learning React Native and Backend frameworks; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 👨‍💻 I’m solve LeetCode problems everyday with Data Structures and Algorithms ;
+- ⚡️ Fun-Fact: I created Free & Open Source Software club for CIT [fosscit](http://github.com/fosscit) in 2018, and has conduted 5+ workshops, 2 events under the banner!
+- 📫 How to reach me: saiadarshsivakumar@gmail.com;
+- 📝[Resume](https://www.linkedin.com/in/sai-adarsh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABkAgewBGw-bbE5c6-LvMK64sNXjHzgZ784,1581358539430)/)
 
 **Languages and Tools:**  
 
@@ -60,7 +52,6 @@ Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, An
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sai-adarsh&show_icons=true&hide_border=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=sai-adarsh&show_icons=true&hide_border=true@theme=tokyonight)
 
 
