@@ -1,5 +1,7 @@
 ### Hey 👋🏽, I'm [Adarsh S.!](https://sai-adarsh.github.io/) 
+<br />
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br />
 <a href="https://discord.gg/qUbApEc">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
