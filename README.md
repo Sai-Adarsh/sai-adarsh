@@ -28,14 +28,14 @@
 <br />
 <br />
 
-## **About Myself:**
- - Hi, I'm [Adarsh S.](https://sai-adarsh.github.io/) Full Stack Developer 🚀. Machine Learning Engineer 🌤. Android Developer ⚛. and an Open Source Enthusiast 📚. from Madurai, India. 
- - Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/). 
- - Algorithms Enthusiast 👨🏽‍💻. Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼. and Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. 
- - Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Philosophy and Startup stuffs.
+### **About Myself:**
+ - 🚀 Full Stack Developer. 🌤 Machine Learning Engineer. ⚛ Android Developer. 📚 and an Open Source Enthusiast. from Madurai, India.
+ - 🙍🏽‍♂️ Currently, am an Intern at [@HTIC](https://www.hticiitm.org/). 
+ - 📚 Algorithms Enthusiast 👨🏽‍💻. Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼. and Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. 
+ - 📦 Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Philosophy and Startup stuffs.
 
   
-## **About Personal Stuffs:**
+### **About Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on [SwipeLance](https://github.com/Sai-Adarsh/swipelance).
 - 🌱 I’m currently learning Backend and DevOps for Mobile Apps.
