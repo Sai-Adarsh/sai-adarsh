@@ -1,6 +1,9 @@
-<h1 align="center">Hey 👋🏽, I'm [Adarsh S.!]</h1>
-<h3 align="center">Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India.</h3>
+<h1 align="center">Hey 👋🏽, I'm Adarsh S.</h1>
+<h3 align="center">Full Stack Developer • Machine Learning Engineer • Android Developer • and an Open Source Enthusiast from Madurai, India.</h3>
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goforbg" alt="goforbg" /> </p>
+
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <br />
 <a href="https://www.twitch.tv/saiadarsh99">
@@ -18,9 +21,6 @@
 <a href="https://leetcode.com/sai-adarsh/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 Hi, I'm Adarsh S., Full Stack Developer 🚀, Machine Learning Engineer 🌤, Android Developer ⚛, and an Open Source Enthusiast 📚, from Madurai, India. Currently, am an Intern at 🙍🏽‍♂️ [@HTIC](https://www.hticiitm.org/), Alogirthms Enthusiast 👨🏽‍💻, Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼, and a Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship. You can find me on Twitter and Reddit posting Philosophy and Startup stuffs.
 
