@@ -39,7 +39,7 @@
 - 👯 Looking for people that can collaborate with [SwipeLance](https://github.com/Sai-Adarsh/swipelance) 🤝.
 - 👨‍💻 I solve LeetCode problems everyday.
 - ⚡️ Fun-Fact: I created Free & Open Source Software club for CIT [fosscit](http://github.com/fosscit) in 2018, and has conduted 5+ workshops, 2 events under the banner!
-- 📫 How to reach me: saiadarshsivakumar@gmail.com.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-adarsh/).
 - 📝[Resume](https://www.linkedin.com/in/sai-adarsh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABkAgewBGw-bbE5c6-LvMK64sNXjHzgZ784,1581358539430)/)
 
 ![Sai Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=sai-adarsh&show_icons=true&hide_border=true&theme=tokyonight)
