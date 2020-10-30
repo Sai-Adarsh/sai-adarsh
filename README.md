@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏽, I'm Sai Adarsh S.</h1>
-<h4 align="center">Full Stack Developer 🚀 Machine Learning Engineer 🌤 Android ⚛ and an Open Source Enthusiast 📚 from Madurai, India.</h4>
+<h4 align="center">Full Stack Developer 🌤 Android ⚛ and an Open Source Enthusiast 📚 from Madurai, India.</h4>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-adarsh" alt="sai-adarsh" /> </p>
 <br />
@@ -26,21 +26,21 @@
 <br />
 
 ### **About Myself:**
- - 🚀 Full Stack Developer. 🌤 Machine Learning Engineer. ⚛ Android Developer. 📚 and an Open Source Enthusiast. from Madurai, India.
- - 🙍🏽‍♂️ Currently, an Intern at [@HTIC](https://www.hticiitm.org/). 
- - 📚 Algorithms Enthusiast 👨🏽‍💻. Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼. and Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 📚. 
- - 📦 Beside's programming, am hugely passionate about UI/UX, Startups, Entrepreneurship.
+ - 🚀 Full-Stack & Android developer, and an open-source enthusiast from Madurai, India.
+ - 🙍🏽‍♂️ Current: Internship at IIT Madras's team of Brain Research.
+ - 📚 Algorithms Enthusiast 👨🏽‍💻. Open Source Contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) 👨🏽‍💼. and Former Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/) 
+ - 📦 Beside's programming, am hugely passionate about UI, UX, Startups, Entrepreneurship.
 
   
 ### **About Personal Stuffs:**
  
 - 👨🏽‍💻 I’m currently working on [SwipeLance](https://github.com/Sai-Adarsh/swipelance).
-- 🌱 Currently a lot into Mobile App DevOps.
-- 👯 Looking for people that can collaborate with [SwipeLance](https://github.com/Sai-Adarsh/swipelance) 🤝.
+- 🌱 Lot into mobile apps DevOps, off late.
 - 👨‍💻 I solve LeetCode problems everyday.
-- ⚡️ Fun-Fact: I created Free & Open Source Software club for CIT [fosscit](http://github.com/fosscit) in 2018, and has conduted 5+ workshops, 2 events under the banner!
+- ⚡️ Fun fact: I created Free & Open Source Software club for CIT [fosscit](http://github.com/fosscit) in 2018.
+- 🤝 I conduted five plus workshops and two events under the banner!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-adarsh/).
-- 📝[Resume](https://www.linkedin.com/in/sai-adarsh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABkAgewBGw-bbE5c6-LvMK64sNXjHzgZ784,1581358539430)/)
+- 📝 [Resume](https://www.linkedin.com/in/sai-adarsh/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABkAgewBGw-bbE5c6-LvMK64sNXjHzgZ784,1581358539430)/) Last updated - Jan 2020
 
 ![Sai Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=sai-adarsh&show_icons=true&hide_border=true&theme=tokyonight)
 
