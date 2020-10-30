@@ -18,9 +18,6 @@
 <a href="https://medium.com/@saiadarsh99">
   <img align="left" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.twitch.tv/saiadarsh99">
-  <img align="left" alt="Sai Adarsh S's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
 
 <br />
 <br />
