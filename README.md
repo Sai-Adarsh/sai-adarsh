@@ -7,6 +7,7 @@
 
 <br />
 
+<p align="center">
 <a href="https://twitter.com/ad6rsh">
   <img align="left" alt="Sai Adarsh S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,6 +23,7 @@
 <a href="https://medium.com/@saiadarsh99">
   <img align="left" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+</p>
 
 <br />
 
