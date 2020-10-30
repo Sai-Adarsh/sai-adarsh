@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sai-adarsh" alt="sai-adarsh" /> </p>
 
-<br />
-
 <p align="center">
   <a href="https://twitter.com/ad6rsh">
     <img align="center" alt="Sai Adarsh S | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,8 +22,6 @@
     <img align="center" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 </p>
-
-<br />
 
 ### **About Myself:**
  - 🚀 Full-Stack & Android Engineer, and an open-source enthusiast from Madurai, India.
