@@ -18,7 +18,7 @@
   <a href="https://leetcode.com/sai-adarsh/">
     <img align="center" alt="Sai Adarsh S's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
-  <a href="https://medium.com/@saiadarsh99">
+  <a href="https://saiadarsh99.medium.com/">
     <img align="center" alt="Sai Adarsh S's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
 </p>
