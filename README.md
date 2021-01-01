@@ -27,7 +27,7 @@
  - 🚀 Full-Stack & Android Engineer, and an open-source enthusiast from Madurai, India.
  - 🙍🏽‍♂️ Current: Looking for a summer internship in 2021.
  - 👨🏽‍💻 Former: Open source contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) @Uber. Research Intern [@IIIT Kancheepuram](https://www.iiitdm.ac.in/).
- - 📦 Beside's programming, am hugely passionate about design, startups & entrepreneurship.
+ - 📦 Besides programming, am hugely passionate about design, startups & entrepreneurship.
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-adarsh/).
 
 <br />
