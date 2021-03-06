@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏽, I'm Sai Adarsh S.</h1>
-<h4 align="center"> 🚀 Full Stack &amp; Android Engineer ⚛ Open Source Enthusiast 📚 from Madurai, India.</h4>
+<h4 align="center"> 🚀 Software Engineer ⚛ Open Source Enthusiast 📚 from Madurai, India.</h4>
 
 <br />
 
