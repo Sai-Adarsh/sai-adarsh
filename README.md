@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏽, I'm Sai Adarsh S.</h1>
-<h4 align="center"> 🚀 Software Engineer ⚛ Open Source Enthusiast 📚 from Madurai, India.</h4>
+<h4 align="center"> 🚀 Software Engineer • Open Source Enthusiast • Madurai, India.</h4>
 
 <br />
 
@@ -24,7 +24,7 @@
 </p>
 
 ### **About Myself:**
- - 🚀 Software Engineer. Full Stack, Android Developer and Open Source Enthusiast from Madurai, India.
+ - 🚀 Software Engineer. Full Stack Developer, and Open Source Enthusiast from Madurai, India.
  - 🙍🏽‍♂️ Current: Looking for Internship + FT in 2022.
  - 👨🏽‍💻 Former: Open source contributor at [@Kubernetes](http://github.com/kubernetes/kubernetes) [@Uber](https://github.com/uber). Software [@IIT Madras](https://www.iitm.ac.in/). Research [@IIIT Kancheepuram](https://www.iiitdm.ac.in/).
  - 📦 Passionate about design, startups & entrepreneurship besides programming.
