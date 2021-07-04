@@ -1,5 +1,7 @@
-<h1 align="center">Hey 👋🏽, I'm Sai Adarsh S.</h1>
-<h4 align="center"> 🚀 Software Engineer • Open Source Enthusiast • Madurai, India.</h4>
+<h1 align="center">Hey, I'm Sai Adarsh S. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center"> 🚀 Software Engineer • Open Source Enthusiast </h2>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 <br />
 
