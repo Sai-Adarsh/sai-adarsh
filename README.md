@@ -30,7 +30,7 @@
  - 🙍🏽‍♂️ Current: Looking for Internship + FT in 2022.
  - 👨🏽‍💻 Former: Open source [**Kubernetes**](http://github.com/kubernetes/kubernetes) [**Uber**](https://github.com/uber). Software at [**IIT Madras**](https://www.iitm.ac.in/). Research at [**IIITDM**](https://www.iiitdm.ac.in/).
  - 📦 Passionate about design, startups & entrepreneurship besides programming.
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sai-adarsh/).
+ - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/sai-adarsh/).
 
 <br />
 
