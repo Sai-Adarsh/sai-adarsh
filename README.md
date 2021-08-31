@@ -16,7 +16,7 @@
 
 :octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and also a part of [**Kubernetes**](http://github.com/kubernetes/kubernetes) :octocat:! 
 
-💖 I’m currently looking for internships and entry-level SDE openings in 2022.
+📙 I’m currently looking for internships and entry-level SDE openings in 2022.
 
 👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/sai-adarsh/) and always up for quick coding brainstorming sessions!
 
