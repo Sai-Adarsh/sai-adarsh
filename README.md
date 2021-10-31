@@ -14,7 +14,7 @@
 
 👨‍🎓 Hey! I'm Sai Adarsh, a 21 year old software engineer working out of Madurai, India. 
 
-:octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and also a part of [**Kubernetes**](http://github.com/kubernetes/kubernetes) :octocat:! 
+:octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and also a part of [**Kubernetes**](http://github.com/kubernetes/kubernetes) SIG :octocat:! 
 
 📙 I’m currently looking for internships and entry-level SDE openings in 2022.
 
