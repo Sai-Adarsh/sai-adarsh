@@ -12,13 +12,13 @@
 <a href="https://twitter.com/ad6rsh" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.linkedin.com/in/sai-adarsh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-👨‍🎓 Hey! I'm Sai Adarsh, a 21 year old software engineer working out of Madurai, India. 
+👨‍🎓 Hey! I'm Sai Adarsh, a 22 year old software engineer.
 
-:octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and also a part of [**Kubernetes**](http://github.com/kubernetes/kubernetes) SIG :octocat:! 
+:octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and [**Kubernetes**](http://github.com/kubernetes/kubernetes) SIG :octocat:! 
 
-📙 I’m currently looking for internships and entry-level SDE openings in 2022.
+📙 I’m currently looking through SaaS startups, HackerNews, Indie Hackers, Product Hunt and other subsets of building SaaS.
 
-👩‍💻 Nowadays, I’m learning Mobile and Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/sai-adarsh/) and always up for quick coding brainstorming sessions!
+👩‍💻 I'm learning Distributed Systems, DevOps, Cloud right now. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/sai-adarsh/) and always up for quick coding brainstorming sessions!
 
 ⚡ Fun fact: I have a Computer Software Engineering background, but most of the credit goes to Google and Stack Overflow. 😪
 
