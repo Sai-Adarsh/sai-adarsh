@@ -14,10 +14,10 @@
 </ul>
 
 <p>Find me online:</p>
-<ul>
+<ol>
    <li>Twitter at <a href="https://twitter.com/ad6rsh" target="_blank">@ad6rsh</a>, <a href="https://www.instagram.com/ad6rsh/" target="_blank">Instagram</a>, <a href="https://www.linkedin.com/in/sai-adarsh" target="_blank">LinkedIn</a>, <a href="https://github.com/Sai-Adarsh" target="_blank">GitHub</a>.</li>
-   <li>My <a href="https://www.adarsh.app/blog/writing.html" target="_blank">pieces</a> over the years.</li>
-</ul>
+   <li><b><a href="https://www.adarsh.app/blog/writing.html">Writings</a></b> : My <a href="https://www.adarsh.app/blog/writing.html">pieces</a> over the years.</li>
+</ol>
 
 <p>Portfolio:</p>
 <ul>
