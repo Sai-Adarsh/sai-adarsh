@@ -1,10 +1,5 @@
 <h1>Sai Adarsh S</h1>
 
-<p align="center">
-   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
-</p>
-
 <p>
    I'm a developer. Anywhere between <a href="https://www.amazon.in/Pirates-Of-Silicon-Valley/dp/B0009NSCS0" target="_blank">Pirates of Silicon Valley</a> and <a href="https://news.ycombinator.com/" target="_blank">HackerNews</a> is my demographic.
 </p>
