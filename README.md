@@ -1,29 +1,15 @@
-<h1 align="center">Hey, I'm Sai Adarsh S. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h3 align="center"> Software Engineer - Changing the world one pixel at a time!</h3>
+Sai Adarsh S
+============
+<p align="center">
+   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
+</p>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sai-adarsh" alt="sai-adarsh" /> </p>
+I'm a developer. Anywhere between [Pirates of Silicon Valley](https://www.amazon.in/Pirates-Of-Silicon-Valley/dp/B0009NSCS0) and [HackerNews](https://news.ycombinator.com/) is my demographic.
 
-<br />
-
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
-   
-   ## :wave: About Me 
-<a href="https://twitter.com/ad6rsh" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-<a href="https://www.linkedin.com/in/sai-adarsh/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-👨‍🎓 Hey! I'm Sai Adarsh, a 22 year old software engineer.
-
-:octocat: I have a soft spot for technology & open source. I contribute to [**Uber**](https://github.com/uber) and [**Kubernetes**](http://github.com/kubernetes/kubernetes) SIG :octocat:! 
-
-📙 I’m currently looking through SaaS startups, HackerNews, Indie Hackers, Product Hunt and other subsets of building SaaS.
-
-👩‍💻 I'm learning Distributed Systems, DevOps, Cloud right now. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/sai-adarsh/) and always up for quick coding brainstorming sessions!
-
-⚡ Fun fact: I have a Computer Software Engineering background, but most of the credit goes to Google and Stack Overflow. 😪
-
-✍🏻 How to reach me - [**Linkedin**](https://www.linkedin.com/in/sai-adarsh/).
-
-<br>
-
-![Sai Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=sai-adarsh&show_icons=true&hide_border=true&theme=tokyonight)
+Some things about me:
+* Grew up in Madurai, India.
+* On the Internet since 2006, which is my actual "home town".
+* Started [Appendly](https://www.adarsh.app/appendly.html), won 12+ hackathons, [Hack Harvard](https://hackharvard.io/) 2019 invited.
+* Work at [Cisco](https://www.cisco.com/). In the past, Open Source at [Uber](https://github.com/uber), [CNCF](https://www.cncf.io/). AI at [IITM](https://www.iitm.ac.in/), [IIITDM](https://www.iiitdm.ac.in/).
+* Live in Bengaluru, India.
